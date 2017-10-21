@@ -4,12 +4,12 @@ In this project, I have used the OpenCV to detect the lane lines on the road fro
 # Required options
 
   ```sh
-$ Keras==1.2.1
 $ numpy==1.13.1
 $ matplotlib==2.0.2
 $ ipython==6.1.0
 $ pandas==0.20.3
-$ tensorflow==0.12.1
+$ scikit-learn==0.19.0
+$ opencv==3.4.0
 ```
 
 
